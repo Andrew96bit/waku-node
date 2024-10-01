@@ -125,7 +125,8 @@ Grafana can be accessed here (replace with relevant link).
    docker-compose up -d
    ```
 
-#### Grafana Node monitoring
+### Grafana Node monitoring
+
 ```bash
    http://YourServerIP:3000/d/yns_4vFVk/nwaku-monitoring?orgId=1
    ```
